@@ -1,32 +1,32 @@
 ## 海量免费节点，时时测试，每天更新
 
-🕙 免费节点更新时间：2026年09月13日 14:44:01。
+🕙 免费节点更新时间：2026年09月16日 20:14:01。
 
 👉 <a href='https://clashfreenode.com'>点击进入我们的官网，获取更多新鲜免费节点。</a>
 
 👉 <a href='https://t.me/clashfreenode'>点击加入我们的tg频道，永不失联。</a>
 
-本次更新共<b style='color:pink'>2180</b>个可用节点，最高速度24M/S。
-覆盖香港、台湾、瑞士、荷兰、爱尔兰、乌克兰、日本、香港、韩国等多个区域。
+本次更新共<b style='color:pink'>1016</b>个可用节点，最高速度8M/S。
+覆盖香港、香港、台湾、台湾、新西兰、荷兰、爱尔兰、阿根廷、日本、台湾、韩国、法国等多个区域。
 
 ## 免费节点订阅链接
 
 🚀 v2ray\shadowroket\小火箭订阅链接：
 
 ```
-https://raw.githubusercontent.com/clashfreenodecom/clashfreenode.com/main/feed/v2ray-20260913.txt
+https://raw.githubusercontent.com/clashfreenodecom/clashfreenode.com/main/feed/v2ray-20260916.txt
 ```
 
 🚀 clash订阅链接：
 
 ```
-https://raw.githubusercontent.com/clashfreenodecom/clashfreenode.com/main/feed/clash-20260913.yaml
+https://raw.githubusercontent.com/clashfreenodecom/clashfreenode.com/main/feed/clash-20260916.yaml
 ```
 
 🚀 singbox\hiddfiy订阅链接：
 
 ```
-https://raw.githubusercontent.com/clashfreenodecom/clashfreenode.com/main/feed/singbox-20260913.txt
+https://raw.githubusercontent.com/clashfreenodecom/clashfreenode.com/main/feed/singbox-20260916.txt
 ```
 
 ## 温馨提示
